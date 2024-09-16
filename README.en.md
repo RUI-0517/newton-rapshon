@@ -1,7 +1,7 @@
-# 牛顿迭代法 (Newton's Method)
+# Newton's Method
 
-[![简体中文](https://img.shields.io/badge/语言-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](https://github.com/RuiJiang-A/2d-platformer/tree/main/README/README.zh-cn.md)
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/RuiJiang-A/2d-platformer/tree/main/README/README.en.md)
+[![简体中文](https://img.shields.io/badge/语言-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](https://github.com/RUI-0517/newton-rapshon/blob/main/README.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/RUI-0517/newton-rapshon/blob/main/README.en.md)
 
 Let's start with a function $$f(x) = x^2 - 3$$ and determine its roots.
 
