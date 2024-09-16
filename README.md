@@ -1,5 +1,8 @@
 # 牛顿迭代法（Newton's Method)
 
+[![简体中文](https://img.shields.io/badge/语言-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](https://github.com/RUI-0517/newton-rapshon/blob/main/README.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/RUI-0517/newton-rapshon/blob/main/README.en.md)
+
 让我们从一个函数 $$f(x) = x^2 - 3$$ 开始，来求它的根。
 
 牛顿法建议以一个初始猜测值，比如2，作为我们的 $$x_0$$。然后，我们在此点上画一条切线。
